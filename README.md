@@ -6,6 +6,19 @@
 711715104052-Sathyan.S,
 711715104072-Vinayagamoorthy.G
 
+# Module Split-up
+
+1.Data collection-(Done by all)
+2.Data Cleaning-Sathyan
+3.Analysing
+  3.1 K-Means-Vinayagamoorthy
+  3.3 Linear Regression-Reena
+  3.3 Decision Tree-Reena
+4.Comaprision&prediction
+  4.1 Visualyzing-Vinayagamoorthy
+  4.2 Tableau-Reena
+
+
 # ABSTRACT
            A system that helps in visualizing and analysing the motor insurance vehicle claims. It distributes interactive and sharable dashboards which depict the trends variations and density of the data in form of graphs and charts. It will be  useful for future prediction and comparison of data.Claims analysis is a technique for examining the positive and negative consequences of design features that are described in current or future scenarios of use. A "claim" is a statement of the consequences of a specific design feature or artifact on users and other stakeholders. This system is planned to build using the TABLEAU software to visualise the data.
    
